@@ -2,7 +2,7 @@
 ### Step-1
 #### Clone this repo or download the zip file and extract it.
 ### Step-2
-#### Run the command ``` npm init -y ```
+#### Go the folder and open the trminal then run this command ``` npm init -y ```
 ### Step-3
 #### Download the packages those are
 <ul>
